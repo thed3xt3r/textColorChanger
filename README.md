@@ -1,5 +1,5 @@
 # textColorChanger
-A simple program to get input from the user and display text from three different colours:
+A simple website to get input from the user and display text from three different colours:
 1. Peach
 2. Salmon
 3. Lime
